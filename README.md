@@ -13,5 +13,6 @@ You may want to add this to your package.mask:
 >=dev-python/gmpy-2.0.8-r2
 >=dev-python/ecdsa-0.15-r1
 >=dev-python/six-1.15.0-r1
+>=dev-python/idna-2.10-r1
 >=net-mail/mailman-3.0
 ```
